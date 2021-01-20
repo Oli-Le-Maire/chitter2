@@ -1,3 +1,3 @@
-require_relative './app'
+require './controller/app'
 
-run BookmarkManager
+run Interface

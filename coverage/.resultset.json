@@ -1,0 +1,24 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/username/Desktop/Makers/chitter2/spec/app_spec.rb": {
+        "lines": [
+          null
+        ]
+      },
+      "/Users/username/Desktop/Makers/chitter2/spec/features/testing_infrastructure_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1611051285
+  }
+}
